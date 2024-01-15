@@ -2,11 +2,11 @@
 # Hi, I'm Hammad! 👋
 
 ## 🚀 About Me
-I'm a Data Engineer Intern at Softoo Pvt Ltd, Islamabad
+I'm a Data Engineer based in Islamabad
 
 
 ## 🛠 Skills
-Python, MySQL, Git, Tableau 
+Python, MySQL, Git, Tableau, Power BI, Looker/Looker Studio
 
 
 ## 🔗 Links
